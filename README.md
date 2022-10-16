@@ -1,6 +1,4 @@
 # PVE
-Proxmox VE 虚拟化
-
 
 ##### cloud-init镜像.qcow2镜像导入并启动Proxmox VE虚拟机
 https://blog.csdn.net/qq_35485875/article/details/125013623
